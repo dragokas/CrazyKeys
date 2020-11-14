@@ -7,6 +7,8 @@
 
 Официальный сайт автора: http://lioan.narod.ru/CrazyKeysHomepage/CrazyKeys.htm
 
+![](https://github.com/dragokas/CrazyKeys/blob/main/CrazyKeys/CrazyKeysHelp/face.png?raw=true)
+
 **Описание:**
 ```
 Вы, как и я, пишите транслитом?
