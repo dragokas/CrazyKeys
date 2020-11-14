@@ -1,0 +1,3953 @@
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+new 0x00ED26C0 : size = 12 file = 
+c:\source\lobj\queue.h : 197 
+
+new 0x00ED2228 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2570 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB6B28 : size = 44 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB6A78 : size = 44 file = 
+c:\source\lobj\queue.h : 207 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x00ED7318 : size = 20 file = 
+c:\source\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x00F44418 : size = 876 file = 
+c:\source\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+new 0x00ED22D0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2340 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED23E8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2420 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2458 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2490 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2538 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED24C8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2730 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2768 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECBA60 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECB830 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECB520 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECB558 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB24C8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB2378 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44F90 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44C10 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45000 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44A88 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44AF8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44D60 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44970 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44D28 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44BA0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44F58 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F449A8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44F20 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44CB8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F449E0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44E78 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F44EB0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45038 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45450 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F457D0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45220 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45140 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45258 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45338 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F456B8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F452C8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45568 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F455A0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45610 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F453A8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45798 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45530 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB7D88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7988 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7348 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB73C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7588 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7448 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB71C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7208 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7648 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB75C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7688 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7788 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E4D8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E598 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E518 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E698 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E798 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E058 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DB98 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DF18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DCD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD98 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DDD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E058 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DF18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DCD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD98 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DDD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DE18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DED8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E4D8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E518 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E598 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E698 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E798 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7988 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7788 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB71C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB75C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7588 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7348 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7448 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7208 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7688 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7648 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7588 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB75C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7688 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7788 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7348 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB73C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7208 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7648 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB71C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7988 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DB98 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DCD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD98 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DDD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DE18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E058 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DED8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DF18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E798 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E518 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E698 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E518 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E598 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E798 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DB98 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DCD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E058 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD98 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DDD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DE18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DED8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DF18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB78C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7988 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7648 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7348 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB73C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7788 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB71C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7648 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7688 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7208 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7448 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB75C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB78C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7988 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E518 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E798 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E598 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7EA58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DB98 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DCD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DF18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD58 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DD98 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DED8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DDD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7DE18 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00E7E058 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB73C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB71C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7208 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7588 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7788 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7348 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7448 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB75C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7648 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7688 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x00ED00D0 : size = 54 file = 
+c:\source\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+new 0x032A1800 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1300 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1740 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A19C0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1380 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1640 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1340 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1780 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1940 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1680 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A17C0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A14C0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1880 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1240 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A13C0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A18C0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1900 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1400 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1280 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1440 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1500 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1540 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1580 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0DC0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0BC0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0FC0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1200 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0B80 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1000 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A11C0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0C00 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0F40 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1140 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0F80 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1040 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1080 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0C40 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A10C0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0D00 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0A40 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0E40 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0E00 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0C80 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1100 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A1180 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0A80 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0AC0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0E80 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0B00 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0EC0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0B40 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0F00 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0CC0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032A0D40 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5E048 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E278 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E2E8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E550 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E6D8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E630 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E010 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E160 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E0F0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E128 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E390 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E198 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E438 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E1D0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E4A8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E208 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E2B0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E470 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E320 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E518 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E3C8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E588 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E5C0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E5F8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E710 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E748 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00F5E780 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5ED58 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5ECB0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5E968 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EC40 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EBD0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EA10 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EC08 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EE00 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EDC8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EC78 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5E818 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EE38 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EA80 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+new 0x00F45418 : size = 12 file = 
+c:\source\lobj\queue.h : 197 
+
+new 0x00F45728 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45140 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB65A8 : size = 44 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB66B0 : size = 44 file = 
+c:\source\lobj\queue.h : 207 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x032A0BC0 : size = 20 file = 
+c:\source\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x032E3148 : size = 876 file = 
+c:\source\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+new 0x00F457D0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45338 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F451B0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45220 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F453A8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45450 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45370 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45680 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45760 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F454F8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED21F0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2180 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED20A0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2228 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2298 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2490 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2538 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2340 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2570 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED26F8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECBA28 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECB4E8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECB360 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECB9F0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECB830 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E358 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E400 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E4E0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E6A0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB2148 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E8F8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3A10 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3BD0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3A48 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3A80 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3AB8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3818 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3850 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E38F8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E35B0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3968 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3AF0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3700 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E36C8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3B98 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3C78 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3770 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED4508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4588 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4AC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED45C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4BC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED48C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4608 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED49C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4708 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4FC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4EC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5308 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5088 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED50C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5148 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5248 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED52C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7788 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7448 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7988 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7788 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7448 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4BC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED45C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4AC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4588 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED48C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4688 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4608 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4708 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED49C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5148 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4EC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5308 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5248 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4FC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5088 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4EC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5248 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED50C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4FC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5088 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5148 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED52C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5308 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4688 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4588 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED45C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4BC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED49C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED48C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4AC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4608 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4708 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7988 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7448 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7788 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7788 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7988 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4FC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5148 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4EC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5088 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED50C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5248 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED52C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5308 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4BC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4688 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED48C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4BC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4588 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4608 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED45C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4708 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED49C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED52C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4FC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4DC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4EC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5248 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4C08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5288 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5088 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED50C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5148 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED5308 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7188 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7448 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7908 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7D48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB8008 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7988 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7E88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00EB7F48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4848 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4508 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4BC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4948 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED48C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A88 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED49C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4AC8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B48 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4A08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4408 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4588 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4B08 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED45C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4608 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4688 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED4708 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00ED50C8 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+new 0x0328A260 : size = 16 file = 
+c:\source\lobj\queue.h : 197 
+
+new 0x03289C60 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289A20 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289AA0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289720 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032896A0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289B60 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032893E0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289520 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032898E0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289560 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032895E0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289620 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032896E0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x032897E0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289820 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289B20 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289860 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03289960 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED7118 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED71D8 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED7358 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6C58 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED7218 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6CD8 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED72D8 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED7018 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED7058 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6D18 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6E98 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED7258 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6C18 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6F58 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6C98 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED7318 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6ED8 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6D58 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6D98 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED7398 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00ED6F98 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+new 0x00ECB830 : size = 12 file = 
+c:\source\lobj\queue.h : 197 
+
+new 0x00ECB9F0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ECB328 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB6708 : size = 44 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB61E0 : size = 44 file = 
+c:\source\lobj\queue.h : 207 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x032A0F00 : size = 20 file = 
+c:\source\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x032979F8 : size = 880 file = 
+c:\source\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+new 0x00ECB360 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED26C0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED20A0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2308 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2180 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2340 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED21F0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED24C8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2228 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED23E8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2420 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2490 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED2570 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00ED26F8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3B98 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E35B0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E39D8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3968 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3620 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3C08 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032E3658 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E400 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E240 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E0B8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E6A0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45680 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F454F8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F45760 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00EB2378 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5E8F8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032971B8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032970D8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x03297228 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x03297110 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032965B0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032968F8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x03296690 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x03296850 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032968C0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x03296540 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032962A0 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032965E8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032967A8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x03296888 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x03296310 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x032966C8 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x03296380 : size = 12 file = 
+c:\source\lobj\queue.h : 207 
+
+new 0x00F5CBD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D0D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D650 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D110 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D150 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D190 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D010 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D350 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D050 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D250 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D490 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D4D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D690 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D6D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D950 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DD10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DDD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DCD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DD50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DAD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DED0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D850 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D990 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DD90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D810 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D990 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D850 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D810 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D8D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DD90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D910 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D890 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DED0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D9D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DCD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DAD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DD10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DC10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DBD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DC50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DD50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DC90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DDD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C3D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C7D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C190 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C550 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C390 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C090 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C3D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C6D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C0D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C110 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C410 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C590 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C250 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C290 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C790 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C2D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C390 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C310 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C510 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C5D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C710 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C010 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C050 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C7D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C210 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C650 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C610 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C350 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C150 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C690 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C750 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C1D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C450 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C490 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C550 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C4D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5CBD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D010 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D050 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D310 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5CBD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D690 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D190 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D650 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D110 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D010 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D6D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D4D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D050 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D0D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D150 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D250 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D310 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D350 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DBD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DD90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DED0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DDD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DC10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D950 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D810 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D990 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D850 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D890 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D8D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D910 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DC50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DC90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DCD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D9D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DAD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D810 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D850 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DC50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DF90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DBD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D890 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DC90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D8D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D910 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DD50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D950 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DAD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D990 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D9D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DA10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DD90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DDD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DE50 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DB90 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DC10 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DCD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5DED0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C010 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C490 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C350 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C690 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C550 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C110 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C510 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C190 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C5D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C050 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C3D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C690 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C390 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C610 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C4D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C750 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C550 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C290 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C2D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C590 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C110 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C510 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C190 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C5D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C010 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C310 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C790 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C350 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C090 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C410 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C650 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C1D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C0D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C450 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C6D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C490 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C710 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C7D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C050 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C150 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5C210 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5CBD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D650 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D010 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D050 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D0D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D110 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D250 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D690 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+new 0x00F5D6D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 57 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x00ED0820 : size = 54 file = 
+c:\source\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+new 0x00F5D610 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D1D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D710 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D290 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D750 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D3D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D510 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D210 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D790 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D7D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D550 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D450 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D2D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D390 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D090 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D410 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D590 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5D5D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C550 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C010 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C5D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C190 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C610 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C1D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C2D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C310 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CA50 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CA90 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CB10 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CF50 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CF90 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CB50 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CC50 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CCD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CD50 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CC90 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C810 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CD10 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C850 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CD90 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C890 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CDD0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C950 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5C8D0 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CE50 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x00F5CE90 : size = 16 file = 
+c:\source\lobj\matrix.h : 88 
+
+new 0x03296A80 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x03296AB8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x03296AF0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x03296B60 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x03297180 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x03297110 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x032971B8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x03297148 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x032971F0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x03297228 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x032970A0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x032970D8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED2730 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED2768 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED26F8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED23E8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED2538 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED22D0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED2458 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED26C0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED2570 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED20A0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED2180 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED2298 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED21F0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED2228 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00ED2308 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00ED2500 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00ED2340 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00ED2420 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00ED2490 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00ED24C8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EBD0 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EE00 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5E968 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EC08 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EA10 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EA80 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EC40 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00F5EDC8 : size = 12 file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+
+
+	!!! 529 bloks of memory back!!!
+
+	!!! 241 bloks of memory back!!!

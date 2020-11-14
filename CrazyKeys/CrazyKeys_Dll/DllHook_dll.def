@@ -1,0 +1,5 @@
+LIBRARY	CrazyKeys_Dll
+
+EXPORTS
+	SetHookState
+	LowLevelKeyboardProcFunc

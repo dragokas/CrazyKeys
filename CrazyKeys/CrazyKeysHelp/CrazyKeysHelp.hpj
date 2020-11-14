@@ -1,0 +1,23 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+COMPRESS=12 Hall Zeck
+LCID=0x419 0x0 0x0 ; Russian
+REPORT=Yes
+CONTENTS=HIDH_MAIN
+TITLE=Crazy Keys
+COPYRIGHT=LIOAN
+HLP=CrazyKeysHelp.hlp
+
+[FILES]
+CrazyKeysHelp.rtf
+
+[MAP]
+#include <..\CrazyKeys_Exe\resource.hm>
+#include <CrazyKeysHelp.h>
+
+[WINDOWS]
+Main="CrazyKeys Translit Help",(128,128,768,768),27648,,(r12632256)
+
+[CONFIG]
+BrowseButtons()

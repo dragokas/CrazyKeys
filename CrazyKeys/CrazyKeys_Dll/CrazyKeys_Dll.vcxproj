@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{010689BB-3E9D-4940-B5FC-24669F5D012E}</ProjectGuid>
+    <RootNamespace>CrazyKeys_Dll</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>15.0.28307.799</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>..\Output\Debug\</OutDir>
+    <IntDir>..\Output\Debug\DllObj\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>..\Output\Release\</OutDir>
+    <IntDir>..\Output\Release\DllObj\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>..\..\LObj;..\CrazyKeys_Shared;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32_WINNT = 0x0500;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader />
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <ShowIncludes>false</ShowIncludes>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)CrazyKeys_Dll.dll</OutputFile>
+      <ModuleDefinitionFile>DllHook_dll.def</ModuleDefinitionFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)CrazyKeys_Dll.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <AdditionalIncludeDirectories>..\..\LObj;..\CrazyKeys_Shared;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32_WINNT = 0x0500;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader />
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ShowIncludes>false</ShowIncludes>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>UnicoWS.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ModuleDefinitionFile>DllHook_dll.def</ModuleDefinitionFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\LObj\Archive.cpp" />
+    <ClCompile Include="..\..\LObj\common.cpp" />
+    <ClCompile Include="..\..\LObj\ConsoleFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\DebugLogTrace.cpp" />
+    <ClCompile Include="..\..\LObj\DebugNew.cpp" />
+    <ClCompile Include="..\..\LObj\Dialog.cpp" />
+    <ClCompile Include="..\..\LObj\DirTreeViewCtrl.cpp" />
+    <ClCompile Include="..\..\LObj\Enumeration.cpp" />
+    <ClCompile Include="..\..\LObj\ListViewFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\MsgBox.cpp" />
+    <ClCompile Include="..\..\LObj\MUI.cpp" />
+    <ClCompile Include="..\..\LObj\Path.cpp" />
+    <ClCompile Include="..\..\LObj\Presume.cpp" />
+    <ClCompile Include="..\..\LObj\Registry.cpp" />
+    <ClCompile Include="..\..\LObj\ShellFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\ShellPathFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\Str.cpp" />
+    <ClCompile Include="..\..\LObj\TextDataFile.cpp" />
+    <ClCompile Include="..\..\LObj\TextFileFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\TmpFile.cpp" />
+    <ClCompile Include="..\..\LObj\TmpFileBody.cpp" />
+    <ClCompile Include="..\..\LObj\Window.cpp" />
+    <ClCompile Include="..\..\LObj\WinMsgName.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\CrazyKeysMUI.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\Layout.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\Layouts.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\Options.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\Rules.cpp" />
+    <ClCompile Include="DllHookManager.cpp" />
+    <ClCompile Include="DllMain_dll.cpp" />
+    <ClCompile Include="KeyboardInput.cpp" />
+    <ClCompile Include="KonAutTranslit.cpp" />
+    <ClCompile Include="LanguageSwitcher.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\LObj\Archive.h" />
+    <ClInclude Include="..\..\LObj\common.h" />
+    <ClInclude Include="..\..\LObj\ConsoleFuncs.h" />
+    <ClInclude Include="..\..\LObj\DebugLogTrace.h" />
+    <ClInclude Include="..\..\LObj\DebugNew.h" />
+    <ClInclude Include="..\..\LObj\Dialog.h" />
+    <ClInclude Include="..\..\LObj\DirTreeViewCtrl.h" />
+    <ClInclude Include="..\..\LObj\Enumeration.h" />
+    <ClInclude Include="..\..\LObj\Exception.h" />
+    <ClInclude Include="..\..\LObj\GdiFuncs.h" />
+    <ClInclude Include="..\..\LObj\GdiObjects.h" />
+    <ClInclude Include="..\..\LObj\LexicalTree.h" />
+    <ClInclude Include="..\..\LObj\ListViewFuncs.h" />
+    <ClInclude Include="..\..\LObj\Matrix.h" />
+    <ClInclude Include="..\..\LObj\MsgBox.h" />
+    <ClInclude Include="..\..\LObj\MUI.h" />
+    <ClInclude Include="..\..\LObj\Path.h" />
+    <ClInclude Include="..\..\LObj\Presume.h" />
+    <ClInclude Include="..\..\LObj\Ptr.h" />
+    <ClInclude Include="..\..\LObj\Queue.h" />
+    <ClInclude Include="..\..\LObj\Registry.h" />
+    <ClInclude Include="..\..\LObj\ShellFuncs.h" />
+    <ClInclude Include="..\..\LObj\ShellPathFuncs.h" />
+    <ClInclude Include="..\..\LObj\Sort.h" />
+    <ClInclude Include="..\..\LObj\StartDebugNew.h" />
+    <ClInclude Include="..\..\LObj\StopDebugNew.h" />
+    <ClInclude Include="..\..\LObj\Str.h" />
+    <ClInclude Include="..\..\LObj\StrBody.h" />
+    <ClInclude Include="..\..\LObj\StrFuncs.h" />
+    <ClInclude Include="..\..\LObj\TextDataFile.h" />
+    <ClInclude Include="..\..\LObj\TextFileFuncs.h" />
+    <ClInclude Include="..\..\LObj\TmpFile.h" />
+    <ClInclude Include="..\..\LObj\TmpFileBody.h" />
+    <ClInclude Include="..\..\LObj\TreeNode.h" />
+    <ClInclude Include="..\..\LObj\Vector.h" />
+    <ClInclude Include="..\..\LObj\Window.h" />
+    <ClInclude Include="..\..\LObj\WinMsgName.h" />
+    <ClInclude Include="..\..\LObj\WndBase.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\CrazyKeysConst.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\CrazyKeysMUI.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\CrazyKeysMUIStrings.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\Layout.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\Layouts.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\Options.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\Rules.h" />
+    <ClInclude Include="DllHookManager.h" />
+    <ClInclude Include="KeyboardInput.h" />
+    <ClInclude Include="KonAutTranslit.h" />
+    <ClInclude Include="LanguageSwitcher.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="TimerQueue.h" />
+    <ClInclude Include="ToExport_dll.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CrazyKeys_Dll.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

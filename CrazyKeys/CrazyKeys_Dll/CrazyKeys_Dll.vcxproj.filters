@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx</Extensions>
+    </Filter>
+    <Filter Include="LObj">
+      <UniqueIdentifier>{a8921dd6-86fb-43eb-89a5-5adfeaed7005}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\CrazyKeys_Shared\CrazyKeysMUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DllHookManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DllMain_dll.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyboardInput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KonAutTranslit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LanguageSwitcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CrazyKeys_Shared\Layout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CrazyKeys_Shared\Layouts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CrazyKeys_Shared\Options.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CrazyKeys_Shared\Rules.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\Archive.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\common.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\ConsoleFuncs.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\DebugLogTrace.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\DebugNew.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\Dialog.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\DirTreeViewCtrl.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\Enumeration.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\ListViewFuncs.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\MsgBox.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\MUI.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\Path.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\Presume.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\Registry.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\ShellFuncs.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\ShellPathFuncs.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\Str.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\TextDataFile.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\TextFileFuncs.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\TmpFile.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\TmpFileBody.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\Window.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\LObj\WinMsgName.cpp">
+      <Filter>LObj</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\CrazyKeys_Shared\CrazyKeysConst.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CrazyKeys_Shared\CrazyKeysMUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CrazyKeys_Shared\CrazyKeysMUIStrings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DllHookManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyboardInput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KonAutTranslit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LanguageSwitcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CrazyKeys_Shared\Layout.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CrazyKeys_Shared\Layouts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CrazyKeys_Shared\Options.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CrazyKeys_Shared\Rules.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ToExport_dll.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Archive.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\common.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\ConsoleFuncs.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\DebugLogTrace.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\DebugNew.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Dialog.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\DirTreeViewCtrl.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Enumeration.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Exception.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\GdiFuncs.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\GdiObjects.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\LexicalTree.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\ListViewFuncs.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Matrix.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\MsgBox.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\MUI.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Path.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Presume.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Ptr.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Queue.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Registry.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\ShellFuncs.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\ShellPathFuncs.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Sort.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\StartDebugNew.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\StopDebugNew.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Str.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\StrBody.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\StrFuncs.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\TextDataFile.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\TextFileFuncs.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\TmpFile.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\TmpFileBody.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\TreeNode.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Vector.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\Window.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\WinMsgName.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\LObj\WndBase.h">
+      <Filter>LObj</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CrazyKeys_Dll.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{37D631E3-CA50-4C7A-AE69-0982DE1727FB}</ProjectGuid>
+    <RootNamespace>CrazyKeys_Exe</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v120_xp</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>15.0.28307.799</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>..\Output\Debug\</OutDir>
+    <IntDir>..\Output\Debug\ExeObj\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>..\Output\Release\</OutDir>
+    <IntDir>..\Output\Release\ExeObj\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>..\..\LObj;..\CrazyKeys_Shared;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32_WINNT = 0x0500;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader />
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>comctl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)CrazyKeys_Exe.exe</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)CrazyKeys_Exe.pdb</ProgramDatabaseFile>
+      <GenerateMapFile>false</GenerateMapFile>
+      <MapExports>false</MapExports>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <AdditionalIncludeDirectories>..\..\LObj;..\CrazyKeys_Shared;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WIN32_WINNT = 0x0500;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader />
+      <WarningLevel>Level4</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>comctl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)CrazyKeys_Exe.exe</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <GenerateMapFile>false</GenerateMapFile>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\LObj\Archive.cpp" />
+    <ClCompile Include="..\..\LObj\common.cpp" />
+    <ClCompile Include="..\..\LObj\ConsoleFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\DebugLogTrace.cpp" />
+    <ClCompile Include="..\..\LObj\DebugNew.cpp" />
+    <ClCompile Include="..\..\LObj\Dialog.cpp" />
+    <ClCompile Include="..\..\LObj\DirTreeViewCtrl.cpp" />
+    <ClCompile Include="..\..\LObj\Enumeration.cpp" />
+    <ClCompile Include="..\..\LObj\ListViewFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\MsgBox.cpp" />
+    <ClCompile Include="..\..\LObj\MUI.cpp" />
+    <ClCompile Include="..\..\LObj\Path.cpp" />
+    <ClCompile Include="..\..\LObj\Presume.cpp" />
+    <ClCompile Include="..\..\LObj\Registry.cpp" />
+    <ClCompile Include="..\..\LObj\ShellFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\ShellPathFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\Str.cpp" />
+    <ClCompile Include="..\..\LObj\TextDataFile.cpp" />
+    <ClCompile Include="..\..\LObj\TextFileFuncs.cpp" />
+    <ClCompile Include="..\..\LObj\TmpFile.cpp" />
+    <ClCompile Include="..\..\LObj\TmpFileBody.cpp" />
+    <ClCompile Include="..\..\LObj\Window.cpp" />
+    <ClCompile Include="..\..\LObj\WinMsgName.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\CrazyKeysMUI.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\Layout.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\Layouts.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\Options.cpp" />
+    <ClCompile Include="..\CrazyKeys_Shared\Rules.cpp" />
+    <ClCompile Include="AddNewRuleDlg.cpp" />
+    <ClCompile Include="CrazyKeysMain.cpp" />
+    <ClCompile Include="ExeHookManager.cpp" />
+    <ClCompile Include="OptionsDlg.cpp" />
+    <ClCompile Include="OptionsDlgLayout.cpp" />
+    <ClCompile Include="OptionsDlgRules.cpp" />
+    <ClCompile Include="OptionsDlgSwitchKey.cpp" />
+    <ClCompile Include="SetupDlg.cpp" />
+    <ClCompile Include="StandartRulesDlg.cpp" />
+    <ClCompile Include="Taskbar.cpp" />
+    <ClCompile Include="ToolTip.cpp" />
+    <ClCompile Include="WinMain_exe.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\LObj\Archive.h" />
+    <ClInclude Include="..\..\LObj\common.h" />
+    <ClInclude Include="..\..\LObj\ConsoleFuncs.h" />
+    <ClInclude Include="..\..\LObj\DebugLogTrace.h" />
+    <ClInclude Include="..\..\LObj\DebugNew.h" />
+    <ClInclude Include="..\..\LObj\Dialog.h" />
+    <ClInclude Include="..\..\LObj\DirTreeViewCtrl.h" />
+    <ClInclude Include="..\..\LObj\Enumeration.h" />
+    <ClInclude Include="..\..\LObj\Exception.h" />
+    <ClInclude Include="..\..\LObj\GdiFuncs.h" />
+    <ClInclude Include="..\..\LObj\GdiObjects.h" />
+    <ClInclude Include="..\..\LObj\LexicalTree.h" />
+    <ClInclude Include="..\..\LObj\ListViewFuncs.h" />
+    <ClInclude Include="..\..\LObj\Matrix.h" />
+    <ClInclude Include="..\..\LObj\MsgBox.h" />
+    <ClInclude Include="..\..\LObj\MUI.h" />
+    <ClInclude Include="..\..\LObj\Path.h" />
+    <ClInclude Include="..\..\LObj\Presume.h" />
+    <ClInclude Include="..\..\LObj\Ptr.h" />
+    <ClInclude Include="..\..\LObj\Queue.h" />
+    <ClInclude Include="..\..\LObj\Registry.h" />
+    <ClInclude Include="..\..\LObj\ShellFuncs.h" />
+    <ClInclude Include="..\..\LObj\ShellPathFuncs.h" />
+    <ClInclude Include="..\..\LObj\Sort.h" />
+    <ClInclude Include="..\..\LObj\StartDebugNew.h" />
+    <ClInclude Include="..\..\LObj\StopDebugNew.h" />
+    <ClInclude Include="..\..\LObj\Str.h" />
+    <ClInclude Include="..\..\LObj\StrBody.h" />
+    <ClInclude Include="..\..\LObj\StrFuncs.h" />
+    <ClInclude Include="..\..\LObj\TextDataFile.h" />
+    <ClInclude Include="..\..\LObj\TextFileFuncs.h" />
+    <ClInclude Include="..\..\LObj\TmpFile.h" />
+    <ClInclude Include="..\..\LObj\TmpFileBody.h" />
+    <ClInclude Include="..\..\LObj\TreeNode.h" />
+    <ClInclude Include="..\..\LObj\Vector.h" />
+    <ClInclude Include="..\..\LObj\Window.h" />
+    <ClInclude Include="..\..\LObj\WinMsgName.h" />
+    <ClInclude Include="..\..\LObj\WndBase.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\CrazyKeysConst.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\CrazyKeysMUI.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\CrazyKeysMUIStrings.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\Layout.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\Layouts.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\Options.h" />
+    <ClInclude Include="..\CrazyKeys_Shared\Rules.h" />
+    <ClInclude Include="AddNewRuleDlg.h" />
+    <ClInclude Include="CrazyKeysMain.h" />
+    <ClInclude Include="ExeHookManager.h" />
+    <ClInclude Include="OptionsDlg.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SetupDlg.h" />
+    <ClInclude Include="StandartRulesDlg.h" />
+    <ClInclude Include="Taskbar.h" />
+    <ClInclude Include="ToolTip.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\CrazyKeysHelp\CrazyKeysHelp.hlp" />
+    <None Include="resource.hm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="CrazyKeys.ico" />
+    <Image Include="CrazyKeysGreen.ico" />
+    <Image Include="CrazyKeysRed.ico" />
+    <Image Include="CrazyKeysYellow.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CrazyKeys_Exe.rc">
+      <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">_UNICODE;UNICODE;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">_UNICODE;UNICODE;_RELEASE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <ResourceCompile Include="CrazyKeys_Files.rc">
+      <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">_UNICODE;UNICODE;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">_UNICODE;UNICODE;_RELEASE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CrazyKeysStandartRules.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CrazyKeys_Dll\CrazyKeys_Dll.vcxproj">
+      <Project>{010689bb-3e9d-4940-b5fc-24669f5d012e}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

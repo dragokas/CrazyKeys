@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrazyKeys_Exe", "CrazyKeys_Exe\CrazyKeys_Exe.vcxproj", "{37D631E3-CA50-4C7A-AE69-0982DE1727FB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrazyKeys_Dll", "CrazyKeys_Dll\CrazyKeys_Dll.vcxproj", "{010689BB-3E9D-4940-B5FC-24669F5D012E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D631E3-CA50-4C7A-AE69-0982DE1727FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{37D631E3-CA50-4C7A-AE69-0982DE1727FB}.Debug|x86.Build.0 = Debug|Win32
+		{37D631E3-CA50-4C7A-AE69-0982DE1727FB}.Release|x86.ActiveCfg = Release|Win32
+		{37D631E3-CA50-4C7A-AE69-0982DE1727FB}.Release|x86.Build.0 = Release|Win32
+		{010689BB-3E9D-4940-B5FC-24669F5D012E}.Debug|x86.ActiveCfg = Debug|Win32
+		{010689BB-3E9D-4940-B5FC-24669F5D012E}.Debug|x86.Build.0 = Debug|Win32
+		{010689BB-3E9D-4940-B5FC-24669F5D012E}.Release|x86.ActiveCfg = Release|Win32
+		{010689BB-3E9D-4940-B5FC-24669F5D012E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D82ED7E-E71A-4C0F-887B-B4259D87BD50}
+	EndGlobalSection
+EndGlobal
