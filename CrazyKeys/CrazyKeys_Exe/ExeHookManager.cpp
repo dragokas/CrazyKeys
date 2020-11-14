@@ -21,6 +21,9 @@ CЕхеHookManager::~CЕхеHookManager()
 	if( isWndHookSet ) {//если функция ловит буквы
 		removeWndHook();//отсоединяем её
 	}
+	if( isMouseHookSet ) {//если мышка в ловушке
+		removeMouseHook();//освобождаем её
+	}
 	if( hookState != HS_Off ) {//если длл не выключен
 		fHookSetState( HS_Off, hHook, hWnd, crazyKeysMsg );//переводим длл в сост.офф
 	}
@@ -44,7 +47,9 @@ bool CЕхеHookManager::loadDll()
 	CheckZero( fHookSetState );
 	fHookProc = ( TDF_HookProcFunc )GetProcAddress( hModule, "LowLevelKeyboardProcFunc" );
 	CheckZero( fHookProc );
-	if( fHookSetState == 0 || fHookProc == 0 ) {
+	fMouseHookProc = ( TDF_MouseHookProcFunc )GetProcAddress(hModule, "LowLevelMouseProcFunc");
+	CheckZero( fMouseHookProc );
+	if (fHookSetState == 0 || fHookProc == 0 || fMouseHookProc == 0) {
 		CheckZero( FreeLibrary( hModule ) );
 		return false;
 	}
@@ -62,6 +67,7 @@ void CЕхеHookManager::unloadDll()
 	hModule = 0;
 	fHookSetState = 0;
 	fHookProc = 0;
+	fMouseHookProc = 0;
 	isDllLoaded = false;
 }
 
@@ -88,6 +94,26 @@ void CЕхеHookManager::removeWndHook()
 	}
 }
 
+bool CЕхеHookManager::setMouseHook()
+{
+	if (!isDllLoaded && !loadDll()) {//если не загружена и не может быть загружена
+		return false;
+	}
+	hMouseHook = SetWindowsHookEx(WH_MOUSE_LL, fMouseHookProc, hModule, 0);
+	CheckZero(hMouseHook);
+	isMouseHookSet = (hMouseHook != 0);
+	return isMouseHookSet;
+}
+
+void CЕхеHookManager::removeMouseHook()
+{
+	if (isMouseHookSet) {
+		CheckZero(UnhookWindowsHookEx(hMouseHook));
+		hMouseHook = NULL;
+		isMouseHookSet = false;
+	}
+}
+
 bool CЕхеHookManager::SetHookState( THookState newState ) 
 {
 	if( newState == hookState ) {//если состояние такое же
@@ -106,7 +132,7 @@ bool CЕхеHookManager::SetHookState( THookState newState )
 		if( !fHookSetState( newState, hHook, hWnd, crazyKeysMsg ) ) {//ставим длл в состояние
 			return false;//не смогли перейти с off в длл-ки (например опции подвели)
 		}
-		if( !setWndHook() ) {//если не смогли завести хук функцию
+		if (!setWndHook() || !setMouseHook()) {//если не смогли завести хук функцию
 			fHookSetState( HS_Off, hHook, hWnd, crazyKeysMsg );//меняет состояние длл обратно
 			return false;
 		}

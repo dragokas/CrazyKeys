@@ -1,5 +1,6 @@
 #include "DllHookManager.h"
 #include "Str.h"
+#include <stdio.h>
 #include "Options.h"
 #include "CrazyKeysConst.h"
 
@@ -109,9 +110,26 @@ bool IsFirstVKeyInSameSC( BYTE scanCode, unsigned char vkCode )
 	return false;
 }
 
+bool CDllHookManager::OnProcMouseHook(const PMSLLHOOKSTRUCT& hookStruct, WPARAM wParam)
+{
+	char buffer[100];
+	sprintf_s(buffer, "[Mouse] MSG: %d, flags: %d\n", wParam, hookStruct->mouseData);
+	OutputDebugStringA(buffer);
+
+
+
+
+	return false;
+}
+
 bool CDllHookManager::OnProcHook( const PKBDLLHOOKSTRUCT& hookStruct, WPARAM wParam )
 {
 	unsigned char vkCode = (unsigned char)hookStruct->vkCode;
+
+	char buffer[100];
+	sprintf_s(buffer, "VK: %d, flags: %d\n", vkCode, hookStruct->flags);
+	OutputDebugStringA(buffer);
+
 	if( vkCode == switchKey ) {//переключатель
 		if( wParam == WM_KEYUP ) {//нажат вниз, переключаем
 			changeHookState( ( hookState == HS_On ) ? HS_Pause : HS_On );

@@ -5,6 +5,7 @@ enum THookState;
 //указатели на функции в длл-ке
 typedef bool ( *TDF_HookSetState ) ( THookState state, HHOOK hNextHook, HWND hWnd, UINT crazyKeysMsg );
 typedef LRESULT ( CALLBACK  *TDF_HookProcFunc ) ( int nCode, WPARAM wParam, LPARAM lParam );
+typedef LRESULT ( CALLBACK  *TDF_MouseHookProcFunc ) (int nCode, WPARAM wParam, LPARAM lParam);
 
 class CЕхеHookManager {
 public:
@@ -12,6 +13,8 @@ public:
 	~CЕхеHookManager();
 
 	bool SetHookState( THookState newState );
+	THookState GetHookState() { return hookState; };
+
 	THookState GetHookState() const { return hookState; };
 	void OnHookStateIsChanged( THookState newState ) { hookState = newState; };
 
@@ -24,15 +27,21 @@ private:
 	bool setWndHook();//ставит хук функцию в системную цепь
 	void removeWndHook();//отсоединяет хук функцию от системы
 
+	bool setMouseHook();//ставит мышко хук функцию в системную цепь
+	void removeMouseHook();//отсоединяет мышко хук функцию от системы
+
 	bool isDllLoaded;//загружена ли длл
-	bool isWndHookSet;//стоит ли ловушка в системе
+	bool isWndHookSet;//стоит ли клаво ловушка в системе
+	bool isMouseHookSet;//стоит ли мышко ловушка в системе
 	THookState hookState;//состояние хука
 
 	HMODULE hModule;//модуль длл-ки
 	HHOOK hHook;//хук следующего по очереди для обработки в дллки
+	HHOOK hMouseHook;//хук мышки следующего по очереди для обработки в дллки
 
 	TDF_HookSetState fHookSetState;//выставляет состояние хука в длл-ке
-	TDF_HookProcFunc fHookProc;//функция хука для системы
+	TDF_HookProcFunc fHookProc;//функция клаво хука для системы
+	TDF_MouseHookProcFunc fMouseHookProc;//функция мышко хука для системы
 
 	HWND hWnd;//окно которое нужно длл-ке, чтобы слать в него сообщения
 	UINT crazyKeysMsg;//сообщение которые длл-ка будет слать

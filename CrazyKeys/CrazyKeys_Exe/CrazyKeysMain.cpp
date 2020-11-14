@@ -93,6 +93,17 @@ LRESULT CCrazyKeysMain::mainWndProc( HWND hWnd, UINT imsg, WPARAM wParam, LPARAM
 		}
 		return 0;
 	}
+	if (taskbar != 0 && imsg == taskbar->GetTaskbarWM() && (UINT)lParam == WM_LBUTTONUP) {//сообщение для таскбара
+		if (!isInOptionsDialog) {
+			THookState hookState = hookManager->GetHookState();
+			if (hookState != HS_Off)
+			{
+				hookState = (hookState == HS_On) ? HS_Pause : HS_On;
+				setState(hookState);
+			}
+		}
+		return 0;
+	}
 	if( hookManager != 0 && imsg == hookManager->GetCrazyKeysMsg() ) {//сообщение хука от длл-ки или из диалога
 		if( wParam == WM_FROM_DLL_CHANGE_ICON ) {
 			taskbar->SetIconColor( (THookState)lParam );

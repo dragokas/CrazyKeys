@@ -13,6 +13,7 @@ public:
 	bool SetHookState( THookState state, HWND hWndMain, UINT crazyKeysMessage );
 
 	bool OnProcHook( const PKBDLLHOOKSTRUCT& hookStruct, WPARAM wParam );
+	bool OnProcMouseHook(const PMSLLHOOKSTRUCT& hookStruct, WPARAM wParam);
 	void OnTimer();
 
 private:

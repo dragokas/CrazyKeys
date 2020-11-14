@@ -77,6 +77,22 @@ LRESULT CALLBACK LowLevelKeyboardProcFunc( int nCode, WPARAM wParam, LPARAM lPar
 	return CallNextHookEx( hNextGlobalHook, nCode, wParam, lParam);
 }
 
+LRESULT CALLBACK LowLevelMouseProc(int nCode, WPARAM wParam, LPARAM lParam)
+{
+	if (nCode < 0) {//это сообщение обрабатывать нельзя
+		return CallNextHookEx(hNextGlobalHook, nCode, wParam, lParam);
+	}
+	PMSLLHOOKSTRUCT hookStruct = (PMSLLHOOKSTRUCT)lParam;
+
+	if (hookStruct->flags & LLMHF_INJECTED) {//нам не нужны эмулированные нажатия
+		return CallNextHookEx(hNextGlobalHook, nCode, wParam, lParam);
+	}
+	if (GetCDllHookManager().OnProcMouseHook(hookStruct, wParam)) {
+		return -1;//надо вернуть не ноль, если обработали и плоглотили
+	}
+	return CallNextHookEx(hNextGlobalHook, nCode, wParam, lParam);
+}
+
 VOID CALLBACK TimerProc( HWND,UINT uMsg, UINT_PTR, DWORD )
 {
 	if( !IsInHookProcBlocker && uMsg == WM_TIMER ) {
