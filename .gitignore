@@ -37,4 +37,4 @@
 *.sdf
 
 # Logs
-/CrazyKeys/CrazyKeys_Exe/MemFileName2.txt
+CrazyKeys/CrazyKeys_Exe/MemFileName2.txt
