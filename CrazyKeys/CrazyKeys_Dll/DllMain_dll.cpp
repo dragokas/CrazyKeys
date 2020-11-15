@@ -77,7 +77,7 @@ LRESULT CALLBACK LowLevelKeyboardProcFunc( int nCode, WPARAM wParam, LPARAM lPar
 	return CallNextHookEx( hNextGlobalHook, nCode, wParam, lParam);
 }
 
-LRESULT CALLBACK LowLevelMouseProc(int nCode, WPARAM wParam, LPARAM lParam)
+LRESULT CALLBACK LowLevelMouseProcFunc(int nCode, WPARAM wParam, LPARAM lParam)
 {
 	if (nCode < 0) {//это сообщение обрабатывать нельзя
 		return CallNextHookEx(hNextGlobalHook, nCode, wParam, lParam);

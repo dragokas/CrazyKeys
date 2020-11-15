@@ -28,5 +28,13 @@
 
 # Executables
 *.exe
+*.dll
 *.out
 *.app
+/CrazyKeys/Output
+
+# VS Settings
+*.sdf
+
+# Logs
+/CrazyKeys/CrazyKeys_Exe/MemFileName2.txt

@@ -7,6 +7,8 @@
 
 Официальный сайт автора: http://lioan.narod.ru/CrazyKeysHomepage/CrazyKeys.htm
 
+![](https://github.com/dragokas/CrazyKeys/blob/main/CrazyKeys/CrazyKeysHelp/face.png?raw=true)
+
 **Описание:**
 ```
 Вы, как и я, пишите транслитом?
@@ -71,4 +73,4 @@
 Программа вступает в режим транслитерации букв по кнопке Scroll Lock (опционально, можно изменить).
 
 **Системные требования:**
-CPU от 500 MHz, RAM от 128 Мб, ОС: Windows: 2000, XP, 2003, Vista, 2008, Windows 7
+CPU от 500 MHz, RAM от 128 Мб, ОС: Windows: XP, Vista, 7, 8.1, 10

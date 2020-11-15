@@ -1,8 +1,1667 @@
 delete? 0x00000000 : file = 
-c:\source\lobj\tmpfilebody.cpp : 27 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 27 
+
+new 0x008E51F8 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 197 
+
+new 0x008E5348 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E5150 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E51C0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008CC7E8 : size = 44 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008CC580 : size = 44 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x008E9238 : size = 20 file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x00957128 : size = 880 file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 27 
+
+new 0x008E4D28 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E5230 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E4D98 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E5268 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E4E08 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E52A0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E4E40 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E5428 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E53F0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008DF210 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008DEB48 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008DEB80 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008DEC60 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008C41F0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008C3F88 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957A38 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957AE0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957760 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957680 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957BC0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957A00 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957C30 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x009578B0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957840 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957808 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957878 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957610 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957AA8 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957728 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957798 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957A70 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x00957CA0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE0408 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE0280 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE01D8 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE03D0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE0718 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE0558 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE05C8 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE02B8 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE0520 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE0478 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE0360 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE04B0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE0670 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE0750 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x04FE07C0 : size = 12 file = 
+c:\source\crazykeys\lobj\queue.h : 207 
+
+new 0x008E8170 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7E30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FF0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E81F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7C70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E82B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8330 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E83B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7930 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7770 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7470 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E74F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7830 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7BB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E77B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7530 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7570 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E75F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7870 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7970 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E79F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890AB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890DB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890EF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890B78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890C38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890CB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890D78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890E38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008902B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008904B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890538 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008905B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890178 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890AB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890B78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890CB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890C38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890D78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890DB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890E38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890EF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8330 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8170 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E81F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7E30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E80F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E82B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FF0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E83B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7C70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7530 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7930 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7770 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E77B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7830 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7970 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7570 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7470 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7830 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E74F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7870 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7770 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E79F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7930 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E77B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7970 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7570 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7BB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7470 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7530 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8170 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FF0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E80F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7E30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E81F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E82B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8330 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E83B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7C70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008904B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008906F8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890538 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008902B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008905B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890178 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890AB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890B78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890D78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890DB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890C38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890E38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890EF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890AB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890178 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008904B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890538 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008902B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008905B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008906F8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E79F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7530 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E74F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7830 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7470 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7BB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7570 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E75F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7770 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E77B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7970 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7870 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7930 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FF0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E80F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E81F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7C70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E80F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E82B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8330 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E83B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7E30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FF0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E77B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7930 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7970 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7830 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7BB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E74F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E75F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7770 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7470 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7870 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7570 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7530 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E79F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890AB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890B78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890EF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890C38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890CB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890D78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890DB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890E38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008904B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890178 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008905B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008902B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890538 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890178 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008902B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890538 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008906F8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008904B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008905B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890B78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890AB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890C38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890CB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890D78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890DB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890E38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890EF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7E30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FF0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E80F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E83B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8170 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E81F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E82B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8330 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7C70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E74F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7530 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7770 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E77B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7830 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7930 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7470 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7570 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E79F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E75F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7970 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7870 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7530 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7970 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7830 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E75F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7470 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7770 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E77B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E74F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7870 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7930 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7570 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E79F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7E30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E83B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FF0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E80F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8170 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E81F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E82B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8330 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7C70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008905B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008906F8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008902B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890178 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008904B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890538 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890AB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890EF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890D78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890B78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890E38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890C38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890EF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890AB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890B78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890C38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890D78 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890DB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890E38 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008904B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008902B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890178 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x00890538 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008905B8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008906F8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFB8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x0088FFF8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7770 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E74F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7530 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7970 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7830 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E75F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7BB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E77B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7870 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7570 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E79F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7930 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7A30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7B70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7470 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E80F0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7E30 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8330 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FB0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7C70 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E83B0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E7FF0 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+new 0x008E8170 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 57 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 243 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 27 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 68 
+
+new[] 0x008E36B0 : size = 54 file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 69 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\tmpfilebody.cpp : 27 
+
+new 0x0095F648 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FC08 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F7C8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FA08 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FA48 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FC48 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F848 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FCC8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FD08 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FD48 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F948 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FB08 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F688 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FAC8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F6C8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FB88 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FBC8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F708 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F748 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F788 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095FA88 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F1C8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095EF88 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F2C8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F288 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F4C8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F308 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F508 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F148 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F0C8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F388 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F108 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095EE48 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F588 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095EDC8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F3C8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095EF08 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F188 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F208 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F408 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095EF48 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F448 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F488 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F548 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095EFC8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F348 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F248 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095EE08 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095EE88 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095EEC8 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F008 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F048 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x0095F088 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x008CD400 : size = 16 file = 
+c:\source\crazykeys\lobj\matrix.h : 88 
+
+new 0x009575D8 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x009578B0 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957610 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957728 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957A00 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957A38 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x009578E8 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957A70 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957648 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957680 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957AA8 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957B18 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957B88 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x009577D0 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x009576B8 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957840 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957808 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957BC0 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957760 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957BF8 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957C68 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957798 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957CA0 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957D10 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00957CD8 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00960130 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 120 
+
+new 0x00960408 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x0095FF38 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x009605C8 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x009601A0 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00960478 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00960440 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00960558 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x009604B0 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x009604E8 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x009601D8 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00960398 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00960088 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00960280 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+new 0x00960248 : size = 12 file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 67 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\lobj\queue.h : 187 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
+
+delete? 0x00000000 : file = 
+c:\source\crazykeys\crazykeys\crazykeys_dll\konauttranslit.cpp : 19 
 
 
 
-	!!! -1 bloks of memory back!!!
+	!!! 346 bloks of memory back!!!
 
 	!!! -8 bloks of memory back!!!
