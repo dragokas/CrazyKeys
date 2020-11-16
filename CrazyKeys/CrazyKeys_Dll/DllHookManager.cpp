@@ -109,7 +109,7 @@ bool IsFirstVKeyInSameSC( BYTE scanCode, unsigned char vkCode )
 	return false;
 }
 
-bool CDllHookManager::OnProcMouseHook(const PMSLLHOOKSTRUCT& hookStruct, WPARAM wParam)
+bool CDllHookManager::OnProcMouseHook(const PMSLLHOOKSTRUCT& /*hookStruct*/, WPARAM wParam)
 {
 	if (wParam == WM_MBUTTONUP && GetAsyncKeyState(VK_SHIFT)) // Shift + Middle mouse click
 	{

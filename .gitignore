@@ -35,6 +35,7 @@
 
 # VS Settings
 *.sdf
+*.suo
 
 # Logs
 CrazyKeys/CrazyKeys_Exe/MemFileName2.txt

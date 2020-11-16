@@ -1,7 +1,7 @@
 #pragma once
 #include <wtypes.h>
 #include <windows.h>
-#include <typeinfo.h>
+#include <typeinfo>
 //сюда никаких инцлудов нельзя
 
 enum TArhiveDirection { AD_Read, AD_Write };
